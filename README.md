@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sagar Dinkar Nawale</h1>
+<h1 align="center">Hi 👋, I'm Sagar Nawale</h1>
 <h3 align="center">Senior Software Engineer | Java, Spring Boot, Microservices, AWS</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sagar-nawale-b01a3a180/">
+  <a href="https://www.linkedin.com/in/sagarnawale1000/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/SagarDinkarNawale">
+  <a href="https://github.com/sagarnawale1000">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
@@ -52,8 +52,8 @@ An **automated patent data management system** integrating **Spring Boot, SQL, a
 ---
 
 ### **📩 Connect with Me**
-💼 **LinkedIn:** [Sagar Nawale](https://www.linkedin.com/in/sagar-nawale-b01a3a180/)  
+💼 **LinkedIn:** [Sagar Nawale](https://www.linkedin.com/in/sagarnawale1000/)  
 📧 **Email:** sagarnawale1000@gmail.com  
-💻 **GitHub:** [SagarDinkarNawale](https://github.com/SagarDinkarNawale)  
+💻 **GitHub:** [SagarDinkarNawale](https://github.com/sagarnawale1000)  
 
 🚀 Looking for **Freelance or Remote Work?** Let's connect!
